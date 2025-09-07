@@ -33,9 +33,11 @@ Spendora makes financial management transparent, intuitive, and effortless.
 
 ---
 
-## 💡 Budget Splitter & Investment Hub
+## 💡 Budget Splitter
 
 Spendora’s **Budget Splitter** helps you divide your income into essential needs, lifestyle wants, and long-term savings — all with minimal effort. It’s designed to promote financial discipline while giving you flexibility.
+
+## 💡 Investment Hub
 
 The **Investment Hub** empowers you to grow your wealth with curated suggestions and tracking tools. Whether you're a beginner or seasoned investor, Spendora helps you make informed decisions with confidence.
 
